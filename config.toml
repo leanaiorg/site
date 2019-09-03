@@ -1,14 +1,14 @@
-baseURL = "www.example.com"
+baseURL = "www.leanai.org"
 languageCode = "en-us"
 title = "Lean AI"
-#themesDir = ""
+publishDir = "docs"
 theme = "whisper"
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 
-[[menu.main]]
+[[menu.main]] 
     name = "Home"
     url = "/"
     weight = 1
