@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.leanai.org/docs/</loc>
+    <loc>https://www.leanai.org/docs/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url>
   
   <url>
-    <loc>www.leanai.org/docs/install-leanai/</loc>
+    <loc>https://www.leanai.org/docs/install-leanai/</loc>
     <lastmod>2019-02-11T19:27:37+10:00</lastmod>
   </url>
   
   <url>
-    <loc>www.leanai.org/docs/configure/</loc>
+    <loc>https://www.leanai.org/docs/configure/</loc>
     <lastmod>2019-02-11T19:30:08+10:00</lastmod>
   </url>
   
   <url>
-    <loc>www.leanai.org/docs/reference/</loc>
+    <loc>https://www.leanai.org/docs/reference/</loc>
     <lastmod>2019-02-11T19:27:37+10:00</lastmod>
   </url>
   
   <url>
-    <loc>www.leanai.org/docs/example/</loc>
+    <loc>https://www.leanai.org/docs/example/</loc>
     <lastmod>2019-02-11T19:27:37+10:00</lastmod>
   </url>
   
   <url>
-    <loc>www.leanai.org/</loc>
+    <loc>https://www.leanai.org/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url>
   
   <url>
-    <loc>www.leanai.org/categories/</loc>
+    <loc>https://www.leanai.org/categories/</loc>
   </url>
   
   <url>
-    <loc>www.leanai.org/tags/</loc>
+    <loc>https://www.leanai.org/tags/</loc>
   </url>
   
 </urlset>

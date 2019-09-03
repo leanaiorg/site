@@ -1,4 +1,4 @@
-baseURL = "www.leanai.org"
+baseURL = "https://www.leanai.org"
 languageCode = "en-us"
 title = "Lean AI"
 publishDir = "docs"
@@ -8,7 +8,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 
-[[menu.main]] 
+[[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
