@@ -14,27 +14,27 @@ pygmentsUseClasses = true
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
-    weight = 2
+    #name = "Docs"
+    #url = "/docs/"
+    #weight = 2
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
+  #homepage_button_link = '/docs'
+  #homepage_button_text = 'Read The Docs'
   homepage_intro = 'Lean AI is a non profit organization that governs sustainable development of Artificial Intelligence in organizations.'
   #homepage_image = '/images/terminal.gif'
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "Lean AI Stack for open source cloud agnostic end to end machine learning."
+    meta_og_title = "Lean AI.org"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-whisper.netlify.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_og_url = "https://leanai.org"
+    meta_og_image = "https://leanai.org/images/leanai-logo.png"
+    meta_og_description = "Lean AI Stack for open source cloud agnostic end to end machine learning."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@leanaiorg"
+    meta_twitter_creator = "@leanaiorg"
 
   [params.logo]
       mobile = "/images/leanai-logo.png"
